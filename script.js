@@ -1,4 +1,3 @@
-
 function mostrarMensagem() {
-    document.getElementById("mensagem").innerText = "valeu por visitar minha pag, tmj!";
+    document.getElementById("mensagem").innerText = "Obrigado por visitar a minha página!";
 }
