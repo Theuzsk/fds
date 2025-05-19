@@ -1,0 +1,58 @@
+
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #4b0082;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.hobbie-img {
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+    margin-top: 15px;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, td {
+    border: 1px solid #ccc;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+.pais-img {
+    width: 200px;
+    border-radius: 8px;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #0000ee;
+}
+
+a:hover {
+    color: #ff4500;
+}
